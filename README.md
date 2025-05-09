@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 "# shopping_card" 
 "# ice-cream-shop" 
 "# ice-cream-shop" 
+"# shopping_card" 
